@@ -33,8 +33,5 @@ Here are some ideas to get you started:
 </p>
 
 ## My Stats:
-<div align="center" style="vertical-align:top;">
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahsan-Ehtesham&count_private=true&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Ehtesham&theme=algolia)
-</div>
-
