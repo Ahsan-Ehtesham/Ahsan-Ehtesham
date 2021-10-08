@@ -1,4 +1,7 @@
 <img src="https://www.technoloader.com/blog/wp-content/uploads/2020/01/Hire-React-Native.gif" alt="CoverImg"/>
+<a href="https://github.com/anuraghazra/github-readme-stats/visitors">
+      <img alt="Visitors" src="https://github.com/Ahsan-Ehtesham/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
 
 ### Hi there 👋
 <!--
